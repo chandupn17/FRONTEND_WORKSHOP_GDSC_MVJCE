@@ -42,7 +42,7 @@ To run this project locally, follow these steps:
 
 ## Authors
 
-[@Shivam-Sharma-1](https://github.com/chandupn17)
+[@chandu_pn](https://github.com/chandupn17)
 
 ## Contribution
 
